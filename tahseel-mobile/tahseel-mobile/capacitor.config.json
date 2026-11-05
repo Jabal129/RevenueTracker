@@ -1,0 +1,8 @@
+{
+  "appId": "com.tahseel.contracts",
+  "appName": "تحصيل العقود",
+  "webDir": "www",
+  "plugins": {
+    "LocalNotifications": { "iconColor": "#0f766e" }
+  }
+}
